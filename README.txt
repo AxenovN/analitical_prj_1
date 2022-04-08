@@ -1,4 +1,8 @@
 The analitical_prj_1 is the project I did at Karpov's Course "Data Analytic".
+It consists:
+    - A/B test
+    - SQL code
+    - Python function
 
 Initial file "n_aksenov_15_variant_2.ipynb" represents the final variant which I sent for checking. And, as You can see, it's awful :')
 (the reason for that You can find below)

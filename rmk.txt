@@ -1,0 +1,16 @@
+This file contains remarks on the project for my personal use.
+
+MODULES:
+? requests
+    - for taking files from Yandex Disc
+    - smth else?
+? urllib.parse
+    - urlencode (?)
+? scipy.stats
+    - for "norm" (?)
+    - for mannwhitneyu (test?)
+? matplotlib.pyplot
+    - graphics (?)
+    - plt.style.use('ggplot') (?)
+? tqdm.auto import tqdm
+    - smth for bootstrap (?)
