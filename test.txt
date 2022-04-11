@@ -3,3 +3,6 @@ test text
 
 next test:
 test of branch
+
+test of git normal workflow:
+test
